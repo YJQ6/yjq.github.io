@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="resume.css">
+    <title>jianli</title>
+</head>
+
+<body>
+
+    <div id="container">
+        <div id="banner">
+          <h1 align="center">个人简历</h1>
+          <div></div>
+        </div>
+        <div id="main_left">
+            <div id="main_left_1">
+                <div id = "photo">
+                    <p id = "typeface"><h1>#证件照片</h1></p>
+                        </div>
+                        <img src="http://5b0988e595225.cdn.sohucs.com/images/20190831/3e03e9c2473c40b180aa99a37c0589fa.jpeg" width="120px" height="110px">
+            </div>
+            <div id="main_left_2">
+                <p id = "typeface"><h1>#联系方式</h1></p>
+                <p>qq：215111551151</p>
+                电子邮箱：515@3u.com
+            </div>
+            <div id="main_left_3">
+                <p id = "typeface"><h1>#个人标签</h1></p>
+                <p>谨慎严谨    才华横溢</p>
+                <p>性情温和</p>
+            </div>
+            <div id="main_left_4">
+                <p id = "typeface"><h1>#个人技能</h1></p>
+                <td colspan="7">熟悉office等办公软件； 熟练而全面掌握通信及计算机网络专业知识； 熟悉SQL Server、MySQL等数据库操作，了解Oracle数据库操作； 熟悉Linux系统基本操作</td>
+            </div>
+        </div>
+
+        <div id="main_right">
+            <div id="main_right_1">
+                <p id = "typeface"><h1>#个人信息</h1></p>
+                <p>姓名：杨佳庆       学历：本科     毕业学校：重理</p>
+            </div>
+            <div id="main_right_2">
+                <p id = "typeface"><h1>#教育背景</h1></p>
+                <p>主修云计算技术与应用，会全套的openstack搭建，会java、python基础语言</p>
+            </div>
+            <div id="main_right_3">
+                <p id = "typeface"><h1>#相关经验</h1></p>
+                工作时间：2016-03到至今
+
+                  公司名称：简历本信息技术有限公司 | 所在部门： | 所在岗位：java工程师
+
+                <p> 工作描述：</p>
+                <p>1、负责研发公司应用软件的模块设计、开发和交付,负责编码，单元测试,参与新知识的学习和培训</p>　　
+                <p>2、按照功能组件的详细设计,对其他软件工程师的代码进行审核,修复程序BUG </p>　　
+            </div>
+            <div id="main_right_4">
+                <p id = "typeface"><h1>#获奖证书</h1></p>
+                <p>2019年获得计算机编程大赛银奖</p>
+                <p>2020年获互联网+全国大学生红旅赛道优秀作品奖</p>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
